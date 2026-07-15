@@ -135,5 +135,6 @@ ERP ····Ночная выгрузка (CSV)····→ DWH
 **Используйте чек-лист качества диаграммы из этого упражнения для самопроверки ДЗ.**
 
 
-<img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/ce647291-0d73-451e-9932-2742b7a39fbf" />
+<img width="1280" height="624" alt="image" src="https://github.com/user-attachments/assets/d0d4504f-47bc-4bde-85a1-6e767575cc8a" />
+
 
